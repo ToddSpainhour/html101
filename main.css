@@ -26,5 +26,10 @@ li {
 
 a {
     align-content: center;
-    hover:
+    
+}
+
+p {
+    padding-top: 15px;
+    padding-left: 15px;
 }
