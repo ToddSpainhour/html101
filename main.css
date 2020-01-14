@@ -33,3 +33,18 @@ p {
     padding-top: 15px;
     padding-left: 15px;
 }
+
+.card {
+    border-style: solid;
+    border-width: 15px;
+    border-color: lightslategray;
+    
+}
+
+img {
+    height: 100px;
+}
+
+div{
+    content: center;
+}
