@@ -2,3 +2,29 @@ body {
     background-color: darkgrey;
     color: black;
 }
+
+h1 {
+    color: darkslategray;
+    text-align: center;
+}
+
+nav {
+    background-color: white;
+    border-style: solid;
+    border-width: 5px;
+    border-color: blue;
+    position: relative;
+}
+
+li {
+    background-color: green;
+    padding: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: inline;
+   
+}
+
+a {
+    align-content: center;
+    hover:
+}
