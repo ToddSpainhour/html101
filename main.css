@@ -38,11 +38,14 @@ p {
     border-style: solid;
     border-width: 15px;
     border-color: lightslategray;
+    align-self: center;
+    float: center;
     
 }
 
 img {
     height: 100px;
+    align-self: center;
 }
 
 div{
